@@ -77,7 +77,7 @@
 
 *For more details, please refer to the following links:*
 
-- [Project Overview](./Project_Overview.md)
-- [System Architecture](./System_Architecture.md)
-- [Key Features](./Key_Features.md)
+- [Automatic Hand Sanitizer Dispenser](./hand-sanitizer.md)
+- [Health Monitoring Unit](./health-monitoring.md)
+- [Sanitization System](./sanitizer-spray.md)
 
