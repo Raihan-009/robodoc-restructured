@@ -1,8 +1,6 @@
 # Automatic Hand Sanitizer Dispenser
 
-<svg width="300" height="300" style="background-color: white">
-    <image href="./spraytodisinfect.png" width="100%" height="100%"/>
-</svg>
+![spray](./spraytodisinfect.png)
 
 ## System Documentation v1.0
 
