@@ -1,6 +1,6 @@
 # Automatic Hand Sanitizer Dispenser
 
-<img src="./spraytodisinfect.png" alt="spray" width="60%">
+<img src="./spraytodisinfect.png" alt="spray" width="40%">
 
 ## System Documentation v1.0
 
