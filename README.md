@@ -1,4 +1,9 @@
 # Touchless Hand Sanitizer Dispenser
+
+<div style="background-color: white;">
+    <img src="automatic-sanitizer-circuit.png" alt="Automatic Sanitizer Circuit Diagram">
+</div>
+
 ## Quick Reference Guide
 
 ### Components List
