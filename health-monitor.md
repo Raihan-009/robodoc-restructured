@@ -103,6 +103,5 @@ const char* IFTTT_KEY = "YOUR_KEY";
 
 ---
 For detailed documentation and support:
-- Hardware Datasheets: [Component Manufacturer Links]
 - IFTTT API: https://ifttt.com/docs/api_reference
 - ESP8266: https://arduino-esp8266.readthedocs.io/

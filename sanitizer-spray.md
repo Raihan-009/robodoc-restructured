@@ -1,4 +1,4 @@
-# Automatic Hand Sanitizer Dispenser
+# Automatic Leg Sanitizer Dispenser
 
 <img src="./spraytodisinfect.png" alt="spray" width="40%">
 
