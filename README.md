@@ -1,8 +1,8 @@
 # Touchless Hand Sanitizer Dispenser
 
-<svg width="100%" height="100%" style="background: white;">
-    <image width="100%" height="100%" href="automatic-sanitizer-circuit.png" />
-</svg>
+<div style="background-color: white; padding: 20px;">
+    <img src="automatic-sanitizer-circuit.png" alt="Automatic Sanitizer Circuit Diagram">
+</div>
 
 ## Quick Reference Guide
 
