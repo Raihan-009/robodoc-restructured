@@ -78,6 +78,6 @@
 *For more details, please refer to the following links:*
 
 - [Automatic Hand Sanitizer Dispenser](./hand-sanitizer.md)
-- [Health Monitoring Unit](./health-monitoring.md)
+- [Health Monitoring Unit](./health-monitor.md)
 - [Sanitization System](./sanitizer-spray.md)
 
